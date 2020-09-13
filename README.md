@@ -1,5 +1,5 @@
 ### Hi, I'm Michal.
 
-I'm a software developer who works in lexicography, digital humanities and natural language generation.
+I'm an IT tinkerer who writes code and wrangles data in the humanities, in lexicography and in natural language generation.
 
 Languages: **`cs` `en` `ga`** *`de` `ru`*
