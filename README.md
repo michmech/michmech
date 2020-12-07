@@ -1,5 +1,6 @@
 ### Hi, I'm Michal.
 
-I write code and wrangle data in the humanities, in lexicography and in natural language generation. 🤖
+I build software for lexicography and the humanities. I like rule-based language technology. 🤖
 
-🌐 Languages: **`cs` `en` `ga`** *`de` `ru`*
+💻 I code in `JavaScript` `C#` `XML` `SQL` and [Grammatical Framework](http://www.grammaticalframework.org/).  
+🌐 I speak `en` `ga` `cs` well and `de` `ru` badly.
